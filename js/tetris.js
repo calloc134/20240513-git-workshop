@@ -16,7 +16,15 @@ var shapes = [
   [0, 1, 1, 0, 1, 1],
   [0, 1, 0, 0, 1, 1, 1],
 ];
-var colors = ["blue", "blue", "blue", "blue", "blue", "blue", "blue"];
+var colors = [
+  "yellow",
+  "yellow",
+  "yellow",
+  "yellow",
+  "yellow",
+  "yellow",
+  "yellow",
+];
 
 // creates a new 4x4 shape in global variable 'current'
 // 4x4 so as to cover the size when the shape is rotated
